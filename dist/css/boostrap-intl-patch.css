@@ -1,3 +1,2 @@
-body {
-  font-family: '微软雅黑', "Microsoft YaHei", "Helvetica Neue",Helvetica,Arial,sans-serif;
-}
+body { font-family: '微软雅黑', "Microsoft YaHei", "Helvetica Neue",Helvetica,Arial,sans-serif; }
+.mw800 { max-width: 800px; }
