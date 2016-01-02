@@ -5,4 +5,5 @@ Bootstrap 默认下是以英文国家作为默认的目标市场的，比如默认的 font-family
 
 ## 使用
 在 bootstrap 项目中加入本项目的 css 链接即可
-·<link rel="stylesheet" href="public/bootstrap-intl/dist/css/bootstrap-intl-patch.css"/>·
+
+	<link rel="stylesheet" href="public/bootstrap-intl/dist/css/bootstrap-intl-patch.css"/>
